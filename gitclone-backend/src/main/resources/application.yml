@@ -10,9 +10,9 @@ spring:
 cloud:
   aws:
     credentials:
-      accessKey: ee52b242a47db38a82255f59c125e2aa
-      secretKey: 38053b69746bc73857243759226fb15266ca839c521470e7ace4d76461b0ee1d
+      accessKey: <Your Acess key Cloudfare R2>
+      secretKey: <Your Secret key Cloudfare R2>
     s3:
       region: auto
-      endpoint: https://28197b858ce34d262e394ce0dd2dd101.r2.cloudflarestorage.com
+      endpoint: <Your Cloudfare Storage uri >
       path-style-access: true
