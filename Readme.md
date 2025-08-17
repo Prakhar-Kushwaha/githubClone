@@ -222,6 +222,9 @@ Run `git help` inside the shell for detailed instructions:
 
 ---
 
+**Watch Demo**
+
+[![Watch the video](https://img.youtube.com/vi/sUgeazAe4wU/0.jpg)](https://youtu.be/sUgeazAe4wU)
 
 
 <br>
